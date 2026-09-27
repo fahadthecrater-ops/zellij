@@ -1,4 +1,4 @@
-<h1 align="center">
+vb<h1 align="center">
   <br>
   <img src="https://raw.githubusercontent.com/zellij-org/zellij/main/assets/logo.png" alt="logo" width="200">
   <br>
